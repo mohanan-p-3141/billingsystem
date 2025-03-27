@@ -76,9 +76,7 @@ Before setting up, make sure you have the following installed:
 
 
 ---
-![Screenshot 2025-03-27 081618](https://github.com/user-attachments/assets/facd295a-8ee1-4111-a1f3-8e0edcd9e3fc)
 
-![image](https://github.com/user-attachments/assets/ca0c82a8-dab8-4b4c-adb6-95cbd9b3ee96)
 
 
 
