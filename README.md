@@ -82,8 +82,6 @@ Before setting up, make sure you have the following installed:
 
 
 
-![Screenshot 2025-03-27 081618](https://github.com/user-attachments/assets/5467dff0-c9bb-4217-b03d-df55f4e75d5c)
-![Screenshot 2025-03-27 081627](https://github.com/user-attachments/assets/16abba7b-e898-42e6-9c0a-ffe248d8fc17)
 
 
 
